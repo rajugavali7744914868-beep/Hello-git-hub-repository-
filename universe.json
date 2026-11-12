@@ -1,0 +1,67 @@
+{
+  "market_outperformers": [
+    "RELIANCE.NS",
+    "HDFCBANK.NS",
+    "ICICIBANK.NS",
+    "SBIN.NS",
+    "INFY.NS",
+    "TCS.NS",
+    "LT.NS",
+    "BHARTIARTL.NS",
+    "ITC.NS",
+    "AXISBANK.NS",
+    "KOTAKBANK.NS",
+    "MARUTI.NS",
+    "SUNPHARMA.NS",
+    "TITAN.NS",
+    "ULTRACEMCO.NS"
+  ],
+  "infra_titans": [
+    "LT.NS",
+    "ADANIPORTS.NS",
+    "NTPC.NS",
+    "POWERGRID.NS",
+    "BEL.NS",
+    "RVNL.NS",
+    "IRCON.NS",
+    "NBCC.NS",
+    "NCC.NS",
+    "GMRINFRA.NS"
+  ],
+  "midcap_movers": [
+    "POLYCAB.NS",
+    "CUMMINSIND.NS",
+    "VOLTAS.NS",
+    "PERSISTENT.NS",
+    "MPHASIS.NS",
+    "DIXON.NS",
+    "TRENT.NS",
+    "BSE.NS",
+    "COFORGE.NS",
+    "AUBANK.NS"
+  ],
+  "bharat_bargains": [
+    "ONGC.NS",
+    "COALINDIA.NS",
+    "POWERGRID.NS",
+    "ITC.NS",
+    "GAIL.NS",
+    "PETRONET.NS",
+    "NMDC.NS",
+    "BANKBARODA.NS",
+    "CANBK.NS",
+    "IOC.NS"
+  ],
+  "smallcap_gems": [
+    "KAYNES.NS",
+    "KPITTECH.NS",
+    "DATAPATTNS.NS",
+    "CLEAN.NS",
+    "ANANTRAJ.NS",
+    "JWL.NS",
+    "ZENTEC.NS",
+    "AETHER.NS",
+    "RATEGAIN.NS",
+    "E2E.NS"
+  ]
+}
